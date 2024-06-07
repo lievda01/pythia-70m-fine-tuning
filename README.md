@@ -8,19 +8,19 @@ The model used is part of the *Pythia Scaling Suite* that is a collection of mod
 
 ### Model Details
 
-Developed by: EleutherAI
+**Developed by:** EleutherAI
 
-Model type: Transformer-based Language Model
+**Model type:** Transformer-based Language Model
 
-Language: English
+**Language:** English
 
-Learn more: Pythia's GitHub repository for training procedure, config files, and details on how to use. See paper for more evals and implementation details.
+**Learn more:** Pythia's GitHub repository for training procedure, config files, and details on how to use. See paper for more evals and implementation details.
 
-Library: GPT-NeoX
+**Library:** GPT-NeoX
 
-License: Apache 2.0
+**License:** Apache 2.0
 
-Contact: to ask questions about this model, join the EleutherAI Discord, and post them in #release-discussion. Please read the existing Pythia documentation before asking about it in the EleutherAI Discord. For general correspondence: contact@eleuther. ai.
+**Contact:** to ask questions about this model, join the EleutherAI Discord, and post them in #release-discussion. Please read the existing Pythia documentation before asking about it in the EleutherAI Discord. For general correspondence: contact@eleuther. ai.
 
 ## The dataset
 
