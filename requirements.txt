@@ -1,0 +1,10 @@
+jsonlines
+datasets
+accelerate -U
+trl
+peft
+torch
+transformers
+bitsandbytes
+https://pypi.org/simple/ bitsandbytes
+einops
