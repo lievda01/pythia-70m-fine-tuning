@@ -4,7 +4,7 @@ This repository shows the impact of fine tunning a small model on a medical data
 
 ## The model
 
-The model used is part of the Pythia Scaling Suite
+The model used is part of the *Pythia Scaling Suite* that is a collection of models. In this case the smallest one (70M) was used to have it trained quickly.
 
 ### Model Details
 
@@ -26,4 +26,4 @@ Contact: to ask questions about this model, join the EleutherAI Discord, and pos
 
 The dataset used contains an extensive recopilation of question-answer regarding several medical conditions. The purpose of using this dataset is to show a possible application of fine tuning a small model to serve as an agent to solve medical queries.
 
-https://www.kaggle.com/code/amyjang/monet-cyclegan-tutorial
+https://www.kaggle.com/datasets/jpmiller/layoutlm
