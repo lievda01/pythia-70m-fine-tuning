@@ -1,6 +1,6 @@
 jsonlines
 datasets
-accelerate -U
+accelerate
 trl
 peft
 torch
